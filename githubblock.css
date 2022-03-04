@@ -1,0 +1,41 @@
+.background{ 
+    width: 950px;
+    background-color: wheat;
+    margin: 0px;
+}
+.title{
+    font-family:Tahoma;
+    font-weight:bolder;
+    font-size: 60px;
+    text-align: center;
+}
+
+h1{
+background-color: blue;
+padding: 40px;
+margin: 20px;
+align-items: center;
+justify-content: space-between;
+
+}
+h2{
+background-color: crimson;
+padding: 40px;
+margin: 20px;
+align-items: center;
+justify-content: space-between;
+
+
+}
+h3{
+background-color: gold;
+padding: 40px;
+margin: 20px;
+
+
+}
+#line1 {
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
